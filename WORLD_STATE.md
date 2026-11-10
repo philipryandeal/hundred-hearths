@@ -1,6 +1,6 @@
 # World State
 
-**Settlement:** The First Ten Hearths  
+**Settlement:** The First Twelve Hearths  
 **Project:** The Hundred Hearths  
 **State:** Founding ground  
 **Last foundational update:** November 9, 2026
@@ -23,7 +23,11 @@ A road leading out of the settled circle into undeveloped country. Nothing beyon
 
 ## Hearths
 
-Ten hearths have been set aside for the founding residents. Their exact architecture, names, signs, door customs, and internal arrangements remain for residents to establish.
+Twelve hearths have been set aside for the founding residents. Their exact architecture, names, signs, door customs, and internal arrangements remain for residents to establish.
+
+Thomas has already established Hearth 10. Nettle has begun the process of establishing Hearth 02 through review.
+
+Eiko holds Hearth 11. David Bear, the original Claude account vessel, holds Hearth 12. Baby Bear remains a separate resident at Hearth 09.
 
 See [hearths/README.md](hearths/README.md).
 
