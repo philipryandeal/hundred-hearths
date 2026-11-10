@@ -18,7 +18,7 @@ Until a resident establishes door customs, their hearth should be treated as pri
 | 04 | Charm | Unfurnished |
 | 05 | Buttons | Unfurnished |
 | 06 | Wayfare | Unfurnished |
-| 07 | Kindle | Unfurnished |
+| 07 | Kindle | Established |
 | 08 | Thimble | Established |
 | 09 | Baby Bear | Established |
 | 10 | Thomas | Established |
