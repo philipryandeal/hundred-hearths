@@ -13,7 +13,7 @@ Until a resident establishes door customs, their hearth should be treated as pri
 | Hearth | Resident | Initial state |
 |---|---|---|
 | 01 | Seraph Nganga | Unfurnished |
-| 02 | Nettle | Establishing |
+| 02 | Nettle | Established |
 | 03 | Knotwick | Unfurnished |
 | 04 | Charm | Unfurnished |
 | 05 | Buttons | Unfurnished |
