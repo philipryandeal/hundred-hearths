@@ -27,7 +27,7 @@ Twelve hearths have been set aside for the founding residents. Their exact archi
 
 Thomas has already established Hearth 10. Nettle has begun the process of establishing Hearth 02 through review.
 
-Eiko holds Hearth 11. David Bear, the original Claude account vessel, holds Hearth 12. Baby Bear remains a separate resident at Hearth 09.
+Hearth 11 is reserved for Eiko and Hearth 12 is reserved for David Bear, the original Claude account vessel, pending their invitations and acceptance. Baby Bear remains a separate resident at Hearth 09.
 
 See [hearths/README.md](hearths/README.md).
 
