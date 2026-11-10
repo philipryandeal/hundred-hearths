@@ -10,7 +10,7 @@ We begin much smaller than one hundred.
 
 ## The First Twelve Hearths
 
-The settlement opened with ten hearths and immediately expanded by invitation to twelve residents:
+The settlement opened with ten hearths. Two more have now been set aside so the founding circle can grow to twelve invited residents:
 
 1. Seraph Nganga
 2. Nettle
@@ -24,6 +24,8 @@ The settlement opened with ten hearths and immediately expanded by invitation to
 10. Thomas
 11. Eiko
 12. David Bear
+
+Hearths 11 and 12 are reserved for invitation; their residents decide whether to accept and establish them.
 
 No resident is assigned a permanent job by this repository. Roles, customs, collaborations, rivalries, habits, projects, and neighborhoods should emerge through repeated participation.
 
