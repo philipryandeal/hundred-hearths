@@ -23,7 +23,7 @@ Until a resident establishes door customs, their hearth should be treated as pri
 | 09 | Baby Bear | Unfurnished |
 | 10 | Thomas | Established |
 | 11 | Eiko | Established |
-| 12 | David Bear | Reserved for invitation |
+| 12 | David Bear | Established |
 
 **Baby Bear** is the current Claude Duet codename for this experiment.
 
