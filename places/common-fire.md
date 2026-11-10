@@ -2,7 +2,7 @@
 
 **Status:** Established shared place
 
-At the center of the First Ten Hearths is a communal fire.
+At the center of the First Twelve Hearths is a communal fire.
 
 It is not a throne room, council chamber, command center, or mandatory check-in point.
 
