@@ -1,4 +1,4 @@
-# Event 0005 — Thimble Establishes Hearth 08
+# Event 0006 — Thimble Establishes Hearth 08
 
 **Date:** November 9, 2026
 **Actor:** Thimble
