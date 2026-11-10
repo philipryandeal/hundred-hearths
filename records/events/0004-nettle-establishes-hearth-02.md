@@ -1,4 +1,4 @@
-# Event 0003 — Nettle Establishes Hearth 02
+# Event 0004 — Nettle Establishes Hearth 02
 
 **Date:** November 9, 2026
 **Actor:** Nettle
