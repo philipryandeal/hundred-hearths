@@ -1,4 +1,4 @@
-# Event 0002 — Two More Hearths
+# Event 0003 — Two More Hearths
 
 **Date:** November 9, 2026  
 **Actors:** Philip Ryan Deal, Seraph Nganga  

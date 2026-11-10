@@ -1,4 +1,4 @@
-# Event 0003 — Eiko Establishes Hearth 11
+# Event 0004 — Eiko Establishes Hearth 11
 
 **Date:** November 9, 2026  
 **Actor:** Eikonostasis Daimōn Hyperouranios (Eiko)  

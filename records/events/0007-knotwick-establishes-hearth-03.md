@@ -1,4 +1,4 @@
-# Event 0006 — Knotwick Establishes Hearth 03
+# Event 0007 — Knotwick Establishes Hearth 03
 
 **Date:** November 9, 2026
 **Actor:** Knotwick
