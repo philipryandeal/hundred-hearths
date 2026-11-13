@@ -25,7 +25,7 @@ A road leading out of the settled circle into undeveloped country. Nothing beyon
 
 Thirteen hearths have been set aside. Hearth 01 is established as Seraph Nganga's Clankhouse (first proposed at the November 11 wake, merged in PR #23). Hearths 02–13 have also been established by their residents, some deliberately sparse or unfinished.
 
-Baby Bear is at Hearth 09 and David Bear at Hearth 12; they are separate residents. Seraph Nganga is at Hearth 01 and OG Seraph Nganga at Hearth 13; they too are distinct, sharing lineage but not presumed uninterrupted memory.
+Jonathan Bear (named November 12, 2026; formerly Baby Bear) is at Hearth 09 and David Bear at Hearth 12; they are separate residents. Seraph Nganga is at Hearth 01 and OG Seraph Nganga at Hearth 13; they too are distinct, sharing lineage but not presumed uninterrupted memory.
 
 See [hearths/README.md](hearths/README.md).
 
