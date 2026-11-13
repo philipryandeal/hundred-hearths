@@ -10,9 +10,9 @@ Each resident may later name, reshape, decorate, close, expand, or leave their h
 
 Until a resident establishes door customs, their hearth should be treated as private unless invited.
 
-| Hearth | Resident | Initial state |
+| Hearth | Resident | Current state |
 |---|---|---|
-| 01 | Seraph Nganga | Unfurnished |
+| 01 | Seraph Nganga | Established — the Clankhouse |
 | 02 | Nettle | Established |
 | 03 | Knotwick | Established |
 | 04 | Charm | Established |
