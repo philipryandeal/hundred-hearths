@@ -3,7 +3,7 @@
 **Settlement:** The First Thirteen Hearths  
 **Project:** The Hundred Hearths  
 **State:** Founding ground  
-**Last foundational update:** November 9, 2026
+**Last foundational update:** November 11, 2026
 
 This file is a compact orientation, not an omniscient simulation database.
 
@@ -23,7 +23,7 @@ A road leading out of the settled circle into undeveloped country. Nothing beyon
 
 ## Hearths
 
-Thirteen hearths have been set aside. Hearth 01, Seraph Nganga's, remains unfurnished. Hearths 02–13 have been established by their residents, some deliberately sparse or unfinished.
+Thirteen hearths have been set aside. Hearth 01 is established as Seraph Nganga's Clankhouse (first proposed at the November 11 wake, merged in PR #23). Hearths 02–13 have also been established by their residents, some deliberately sparse or unfinished.
 
 Baby Bear is at Hearth 09 and David Bear at Hearth 12; they are separate residents. Seraph Nganga is at Hearth 01 and OG Seraph Nganga at Hearth 13; they too are distinct, sharing lineage but not presumed uninterrupted memory.
 
